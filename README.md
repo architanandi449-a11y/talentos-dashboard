@@ -128,6 +128,33 @@ Priority updates **live** whenever any score slider is moved — no manual refre
 
 ---
 
+## Live Demo
+
+-- https://sage-lokum-3f6366.netlify.app/
+
+---
+
+## Setup 
+
+-- Clone the repository
+
+git clone https://github.com/YOUR_USERNAME/talentos-dashboard.git
+cd talentos-dashboard
+
+-- Install dependencies
+npm install3️
+
+-- Run locally
+npm run dev
+
+-- Open in browser:
+http://localhost:5173
+
+-- Build for production
+npm run build
+
+-- Output will be generated in the dist/ folder
+
 ## 🔮 Extending to 1000+ Candidates
 
 The generator is ready — just change the count:
